@@ -5,8 +5,7 @@ A simple **Shopify-style landing page** built using **HTML and CSS**, showcasing
 ## 🚀 Live Demo  
 👉 [Click Here to View](https://chaitanyasivathmika19.github.io/shopify-landing-page/)  
 
-## 📸 Preview  
-![Landing Page Preview](screenshot.png)  
+## 📸 Preview   
 <img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/6f6100a5-1338-4be3-a523-467124016414" />
 
 
