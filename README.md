@@ -8,6 +8,18 @@ A simple **Shopify-style landing page** built using **HTML and CSS**, showcasing
 ## 📸 Preview   
 <img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/6f6100a5-1338-4be3-a523-467124016414" />
 
+---
+
+## 📂 Project Structure
+
+/ (root)  
+│── index.html       # 🏗️ Main HTML structure  
+│── style.css        # 🎨 Styling (light & dark themes)  
+│── pic8.jpg         # 🖼️ Image asset  
+│── shoppingimg.avif # 🛍️ Shopping illustration  
+│── README.md        # 📘 Documentation  
+
+---
 
 ## ✨ Features  
 ✅ Clean navigation bar with menu links (Home, About, Product, Brand, Contact)  
